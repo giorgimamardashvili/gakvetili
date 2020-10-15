@@ -1,0 +1,177 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.promo {
+    background: url(./img/layers.png) center center/cover no-repeat;
+    height: 800px;
+    padding: 39px 0 60px 0;
+}
+
+.logo_img {
+    display: block;
+    margin: 0 auto;
+}
+
+.logo_text {
+    text-align: center;
+    font-size: 15px;
+    line-height: 24px;
+    font-weight: 500;
+    text-transform: uppercase;
+    color: #ffffff;
+    margin-top: 15px;
+}
+
+.cnt_text {
+    font-size: 41px;
+    font-weight: 900;
+    text-transform: uppercase;
+    color: #f9bf3b;
+    text-align: center;
+    margin-top: 35px;
+}
+
+h1 {
+    font-size: 80px;
+    font-weight: 900;
+    text-transform: uppercase;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 25px;
+}
+
+.promo_text {
+    font-size: 21px;
+    line-height: 28px;
+    font-weight: 300;
+    color: #ffffff;
+    text-align: center;
+}
+
+.span {
+    font-weight: 700;
+    color: #f9bf3b;
+}
+
+.promo_btn {
+    display: block;
+    margin: 0 auto;
+    margin-top: 73px;
+    width: 321px;
+    height: 80px;
+    background-image: linear-gradient(0.0deg, #2798b9 0%, #3ab6da 100%);
+    border: 4px solid rgba(0,0,0,0.22);
+
+    box-shadow: -1px -1px 0px 0px rgba(0,0,0,0.21);
+    font-size: 21px;
+    line-height: 24px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.more_text {
+    margin-top: 70px;
+    font-size: 15px;
+    font-weight: 100;
+    text-transform: uppercase;
+    color: #ffffff;
+    text-align: center;
+}
+
+.more_img {
+    display: block;
+    margin: 0 auto;
+    margin-top: 25px;
+}
+
+.ragaca {
+    max-height: 604px;
+    background-color: #efefef;
+    padding: 85px 0 75px 0;
+}
+
+h2 {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #252525;
+}
+
+hr {
+    width: 217px;
+    height: 4px;
+    background-color: #f9bf3b;
+    margin: 0 auto;
+    margin-top: 18px;
+}
+
+.small_text {
+    margin-top: 17px;
+    font-size: 23px;
+    font-weight: 400;
+    color: #4a4a4a;
+    text-align: center;
+}
+
+.flex_container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 45px;
+}
+
+.text {
+    font-size: 15px;
+    font-weight: 300;
+    color: #4a4a4a;
+    margin-top: 25px;
+    text-align: center;
+}
+
+.footer {
+    max-height: 166px;
+    background-color: #1a1a1a;
+    padding: 61px 0 69px 0;
+}
+
+.links {
+    text-align: center;
+}
+
+.help {
+    font-size: 15px;
+    font-weight: 300;
+    text-decoration: underline;
+    color: #888888;
+}
+
+span {
+    color: #888888;
+}
+
+.call {
+    text-align: center;
+    font-size: 15px;
+    font-weight: 300;
+    color: #888888;
+}
+
+
+
+
+
+
+
