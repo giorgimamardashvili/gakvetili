@@ -19,7 +19,7 @@ nav {
 }
 
 .list {
-    margin-top: 0px auto;
+    /* margi-top: 0px auto; */
     display: flex;
     list-style-type: none;
     justify-content: space-around;
